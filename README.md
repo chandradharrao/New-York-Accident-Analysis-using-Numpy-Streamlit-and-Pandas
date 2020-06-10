@@ -11,7 +11,7 @@ streamlit run app.py. This will open the web app on the browser.
 
 Here's a screenshot:
 
-xxxx
+![image](https://raw.githubusercontent.com/chandradharrao/New-York-Accident-Analysis-using-Numpy-Streamlit-and-Pandas/master/cmd.png)
 
 Here are some samples:
 
